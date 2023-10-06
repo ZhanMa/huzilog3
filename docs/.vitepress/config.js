@@ -1,3 +1,53 @@
 export default {
-  base: '/huzilog3/'
+  base: '/huzilog3/',
+  themeConfig: {
+    nav: [
+      { text: 'Guide', link: '/guide' },
+      { text: 'Config', link: '/config' },
+      { text: 'Changelog', link: 'https://github.com/...' },
+      {
+        text: 'Dropdown Menu',
+        items: [
+          { text: 'Item A', link: '/item-1' },
+          { text: 'Item B', link: '/item-2' },
+          { text: 'Item C', link: '/item-3' }
+        ]
+      },
+      {
+        text: 'Dropdown Menu2',
+        items: [
+          {
+            // Title for the section.
+            text: 'Section A Title',
+            items: [
+              { text: 'Section A Item A', link: '...' },
+              { text: 'Section B Item B', link: '...' }
+            ]
+          }
+        ]
+      },
+      {
+        text: 'Dropdown Menu1',
+        items: [
+          {
+            // You may also omit the title.
+            items: [
+              { text: 'Section A Item A', link: '...' },
+              { text: 'Section B Item B', link: '...' }
+            ]
+          }
+        ]
+      }
+    ],
+    sidebar: [
+      {
+        text: 'Guide',
+        items: [
+          { text: 'Introduction', link: '/introduction' },
+          { text: 'Getting Started', link: '/getting-started' },
+        ]
+      }
+    ]
+  }
+
 }

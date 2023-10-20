@@ -1,8 +1,10 @@
 export default {
   base: '/huzilog3/',
+  title: 'HuziLog',
+  description: 'Vite & Vue powered static site generator.',
   themeConfig: {
     nav: [
-      { text: 'Guide', link: '/guide' },
+      { text: 'Guide', link: '/guide/' },
       { text: 'Config', link: '/config' },
       { text: 'Changelog', link: 'https://github.com/...' },
       {
@@ -41,12 +43,23 @@ export default {
     ],
     sidebar: [
       {
-        text: 'Guide',
+        text: 'Section Title A',
+        collapsed: false,
         items: [
-          { text: 'Introduction', link: '/introduction' },
-          { text: 'Getting Started', link: '/getting-started' },
+           { text: '2023收藏文章', link: '/post/favorites-2023-z' },
+            { text: 'One', link: '/guide/one' },
+            { text: 'Two', link: '/guide/two' }
         ]
-      }
+      },
+      
+      {
+        text: 'Section Title B',
+        collapsed: true,
+        items: [
+           { text: 'Index', link: '/config1/' },
+           
+        ]
+      },
     ]
   }
 

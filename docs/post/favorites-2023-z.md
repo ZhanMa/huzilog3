@@ -2,6 +2,12 @@
 
 [github 2fa 中国区认证解决](https://www.jerrycoding.com/article/github-f2a/)
 
+[看完稚晖君的最新工作台，我酸了。。](https://mp.weixin.qq.com/s/bmOYhMxqEGM6EMq-l9EIlw)
+
+[创业一年半，我们终至此](https://mp.weixin.qq.com/s/Vsu246zmKJ5qfdmb9ALnQA)
+
+
+
 20231019
 
 [马斯克 硬核迁移服务器](https://mp.weixin.qq.com/s/pWJxFo4tJGpJvo41REmL_w)

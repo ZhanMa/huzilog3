@@ -1,3 +1,7 @@
+20231020
+
+[github 2fa 中国区认证解决](https://www.jerrycoding.com/article/github-f2a/)
+
 20231019
 
 [马斯克 硬核迁移服务器](https://mp.weixin.qq.com/s/pWJxFo4tJGpJvo41REmL_w)

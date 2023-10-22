@@ -1,3 +1,7 @@
+20231022
+
+[尽快离开那个糟糕的环境](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650727726&idx=1&sn=24531842e32edf4a09d350a0f0b393c4&chksm=bec02b7d89b7a26bb689d6b77e1717c16eaa09db2f5e5c6eccb6333019978648b4488340ff33&scene=132&exptype=timeline_recommend_article_extendread_samebiz#wechat_redirect)
+
 20231020
 
 [github 2fa 中国区认证解决](https://www.jerrycoding.com/article/github-f2a/)

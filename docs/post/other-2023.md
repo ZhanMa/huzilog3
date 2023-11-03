@@ -1,3 +1,7 @@
+20231103
+
+[为什么别人家的孩子那么乖巧？我家的却这么难搞？| 何洁 一席第1024位讲者](https://mp.weixin.qq.com/s/w7ZbaHDyoRl7CAmRIfUYKw)
+
 20231029
 
 [传记写作的诱惑](https://mp.weixin.qq.com/s/--hhIH1_kNdz3Q6jHhF3yQ)

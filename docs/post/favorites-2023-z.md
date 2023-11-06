@@ -1,3 +1,8 @@
+20231106
+
+[被裁员了，记录下去年刚入职一个月时在组内关于前端基建的技术分享](https://juejin.cn/post/7256393626682163237?utm_source=gold_browser_extension)
+
+
 20231028
 
 [我与Vue.js 2.x 的七年之痒](https://www.cnblogs.com/zaking/p/17517236.html?utm_source=gold_browser_extension)

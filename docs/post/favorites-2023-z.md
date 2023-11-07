@@ -1,3 +1,9 @@
+20231107
+
+[为什么中国程序员996还干不过美国的955？](https://mp.weixin.qq.com/s/EB-gbPyaOWYUFBO0kl-mUg)
+
+
+
 20231106
 
 [被裁员了，记录下去年刚入职一个月时在组内关于前端基建的技术分享](https://juejin.cn/post/7256393626682163237?utm_source=gold_browser_extension)

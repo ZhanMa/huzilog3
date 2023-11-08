@@ -1,3 +1,9 @@
+20231108
+
+[医生都是越老越吃香，为啥程序员却不是？](https://mp.weixin.qq.com/s/4e4ZPAhPHifcSHwoBpFibw)
+
+
+
 20231107
 
 [为什么中国程序员996还干不过美国的955？](https://mp.weixin.qq.com/s/EB-gbPyaOWYUFBO0kl-mUg)

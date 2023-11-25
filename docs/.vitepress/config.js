@@ -48,7 +48,7 @@ export default {
         items: [
            { text: '2023收藏文章', link: '/post/favorites-2023-z' },
             { text: '2023其他', link: '/post/other-2023' },
-            { text: 'Two', link: '/guide/two' }
+            { text: '2023搜索有用的', link: '/post/baidugoogle' }
         ]
       },
       

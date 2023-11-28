@@ -1,3 +1,18 @@
+20231128
+
+[互联网不工作那一夜](https://mp.weixin.qq.com/s/eiBA7rtlA8Z9w0eUmqcFSA)
+
+
+20231127
+
+[历时五年锤炼，拙著《深入理解Go并发编程》预售了。 全彩印刷，400多页，21章，以漫画与通俗易懂的语言全面解析Go并发编程。预售期间限时特价，只需半价，初期只售4000册，先到先得](https://item.jd.com/14283252.html)
+
+
+
+[为什么不建议程序员接外包？](https://mp.weixin.qq.com/s/1RZExIPsuJvRvWt85ikNaQ)
+
+
+
 20231120
 
 [《我本是高山》引争议，到底是谁在恶意炒作？](https://mp.weixin.qq.com/s/TuRLE_rlxctRW37ZlQPV0Q)

@@ -1,3 +1,11 @@
+20231129
+
+[外国同事批中国孩子挂水学习“太拼了”，我忍不住怼了回去...](https://mp.weixin.qq.com/s/-AJd6_s-P70hWd4XsXILsw)
+
+[微积分的力量](https://book.douban.com/subject/35292688/) 
+
+[幼儿园活动日20231129](http://postadmin.jinrigaoling.com/portal/article/index.html?id=300)
+
 20231128
 
 [互联网不工作那一夜](https://mp.weixin.qq.com/s/eiBA7rtlA8Z9w0eUmqcFSA)

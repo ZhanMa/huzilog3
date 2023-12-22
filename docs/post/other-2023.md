@@ -1,3 +1,17 @@
+20231222
+
+[主播之死](https://mp.weixin.qq.com/s/JGDGo8q4rIdzNhvaRtZxAA)
+
+[五年之后超过10000订阅者](https://www.cnblogs.com/37Y37/p/17913184.html?utm_source=gold_browser_extension) 
+
+
+
+20231130
+
+[胡蝶口述自传](https://book.douban.com/subject/35716949/)
+
+[闯入不适区](https://book.douban.com/subject/35720210/)
+
 20231129
 
 [外国同事批中国孩子挂水学习“太拼了”，我忍不住怼了回去...](https://mp.weixin.qq.com/s/-AJd6_s-P70hWd4XsXILsw)

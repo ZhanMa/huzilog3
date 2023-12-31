@@ -1,3 +1,9 @@
+20231231
+
+[发布 Vue3 让尤雨溪吃尽苦头：犯了3个错，每一个都需开发者警惕](https://mp.weixin.qq.com/s/4rL1CAFp7A8mbWvZt0_zqA)
+
+
+
 20231108
 
 [医生都是越老越吃香，为啥程序员却不是？](https://mp.weixin.qq.com/s/4e4ZPAhPHifcSHwoBpFibw)

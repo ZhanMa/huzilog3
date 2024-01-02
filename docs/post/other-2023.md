@@ -1,3 +1,15 @@
+
+
+20240102
+
+[想在今天的跨境电商中赚到钱，你可能得先知道这10件事](https://mp.weixin.qq.com/s/0IRc363McYBPM2zOQT3BJQ)
+
+[2023年度好书出炉，36氪和朋友们强烈推荐（文末抽奖）](https://mp.weixin.qq.com/s/ZGA35qvFnlCQY9kVMgj5NQ)
+
+[罗振宇2024“时间的朋友”跨年演讲全文稿（含全套PPT）](https://mp.weixin.qq.com/s/uR1eOQQtFFmAcorxGmb5aQ)
+
+
+
 20231226
 
 [当一位普通北京市民开始整理父母的遗物](https://mp.weixin.qq.com/s/oNEZ1_WfAhws5nAge0_kdg)

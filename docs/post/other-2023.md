@@ -4,10 +4,12 @@
 
 [吴晓波：定力至上（工厂年终秀演讲全文）](https://mp.weixin.qq.com/s/a-HdqMYvUeyDu8hIWAeNUQ)
 
+[我在大专院校教前端（二）](https://juejin.cn/post/7312797734771408930)
+
+
 20240103
 
 [2个令人惊艳的开源项目，诞生了！](https://mp.weixin.qq.com/s/2iy6BfRtl5KRmQ8_dNcDLQ)
-
 
 20240102
 

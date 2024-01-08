@@ -1,5 +1,14 @@
 
 
+20240108
+
+[吴晓波：定力至上（工厂年终秀演讲全文）](https://mp.weixin.qq.com/s/a-HdqMYvUeyDu8hIWAeNUQ)
+
+20240103
+
+[2个令人惊艳的开源项目，诞生了！](https://mp.weixin.qq.com/s/2iy6BfRtl5KRmQ8_dNcDLQ)
+
+
 20240102
 
 [想在今天的跨境电商中赚到钱，你可能得先知道这10件事](https://mp.weixin.qq.com/s/0IRc363McYBPM2zOQT3BJQ)

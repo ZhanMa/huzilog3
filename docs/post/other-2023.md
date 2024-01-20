@@ -1,3 +1,17 @@
+20240119
+
+[2024，慢下来，才能活到黎明前](https://mp.weixin.qq.com/s/XbRAni5YONyXusyHd1YCxg)
+
+[我的2023年度关键词：ChatGPT、生产力工具](https://www.cnblogs.com/jaycewu/p/17971913?utm_source=gold_browser_extension)
+
+[官宣：中国人口，二连降了](https://mp.weixin.qq.com/s/6PCiyc3-XP3EM2J4509u_A)
+
+
+
+20240112
+
+[我与萨姆·奥尔特曼的对话 | 盖茨播客](https://mp.weixin.qq.com/s/UqfuCxhZ7cbpCh234Gob6w)
+
 
 
 20240108

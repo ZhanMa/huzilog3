@@ -1,3 +1,13 @@
+20240124
+
+[收获×读库：编辑是一份需要时间打磨的职业](https://mp.weixin.qq.com/s/15YiEQNdDh9vfltRKy7N1Q)
+
+20240122
+
+[奶爸的专属私塾，给二年级孩子讲历史故事，成长就是耐心的陪伴](https://www.ixigua.com/7326559597810942503?logTag=bde628df1ddca87134b2)
+
+
+
 20240119
 
 [2024，慢下来，才能活到黎明前](https://mp.weixin.qq.com/s/XbRAni5YONyXusyHd1YCxg)

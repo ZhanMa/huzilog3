@@ -1,6 +1,16 @@
+20240125
+
+[微信AI，和你想的不一样](https://mp.weixin.qq.com/s/r7iMeloRXzHveklP_SGzkQ)
+
+
+
 20240124
 
 [收获×读库：编辑是一份需要时间打磨的职业](https://mp.weixin.qq.com/s/15YiEQNdDh9vfltRKy7N1Q)
+
+[在富士康熬社保的女人们](https://mp.weixin.qq.com/s/SwBKv5hybvAyATYRIAO53A)
+
+
 
 20240122
 

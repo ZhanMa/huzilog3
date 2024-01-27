@@ -1,3 +1,11 @@
+#### 20240127
+
+[武汉大学前校长、著名数学家齐民友：大学本科生的数学教材应该是怎样的？](https://mp.weixin.qq.com/s/l8YVIsyzjDV6PBwyQ5FzTA)
+
+[产业·观察 ｜ 直播间里的文学爆款，靠什么“复制”](https://mp.weixin.qq.com/s/3GiNf-76-Vs5QkqT5m3UJw)
+
+
+
 20240125
 
 [微信AI，和你想的不一样](https://mp.weixin.qq.com/s/r7iMeloRXzHveklP_SGzkQ)

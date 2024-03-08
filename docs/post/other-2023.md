@@ -1,3 +1,17 @@
+#### 20240308
+
+[程序员-你得把自己卖出去](https://www.cnblogs.com/mangod/p/18060693?utm_source=gold_browser_extension)
+
+#### 20240220
+
+[当95后选择做装修工](https://mp.weixin.qq.com/s/6_o5MR-G3imlGVzT_I7piQ)
+
+#### 20240217
+
+[要上班了，这里有5个建议，助你2024年开工大吉！](https://mp.weixin.qq.com/s/IN3EwxxiN9bTlHbgmeXezQ)
+
+#### 
+
 #### 20240127
 
 [武汉大学前校长、著名数学家齐民友：大学本科生的数学教材应该是怎样的？](https://mp.weixin.qq.com/s/l8YVIsyzjDV6PBwyQ5FzTA)

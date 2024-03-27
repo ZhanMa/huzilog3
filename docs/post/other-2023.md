@@ -4,7 +4,7 @@
 
 #### 20240326
 
-[2024最流行的网站架构——边缘平台架构：概念与产品](https://mp.weixin.qq.com/s/d2RIXTR47NrGmRzUO85kbw)
+[2024最流行的网站架构——边缘平台架构：概念与产品](https://mp.weixin.qq.com/s/d2RIXTR47NrGmRzUO85kbw)阮一峰
 
 #### 20240308
 

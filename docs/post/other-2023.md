@@ -1,3 +1,17 @@
+#### 20240419
+
+[扎克伯格最新采访：Meta最强开源模型Llama 3凭什么值百亿美金（视频+实录）](https://mp.weixin.qq.com/s/pA-uETmerJaTX4H-OYNJtA)看到5：48
+
+#### 20240413
+
+[玉伯这个中年男人也去创业了](https://mp.weixin.qq.com/s/auTirUDb9f3z8RPefx0UUQ)
+
+[用 VitePress 搭建电子书，绝了！](https://juejin.cn/post/7355759709167910923?utm_source=gold_browser_extension)
+
+#### 20240329
+
+[百亿补贴为什么用 H5？H5 未来会如何发展？](https://juejin.cn/post/7344325496983732250?utm_source=gold_browser_extension)
+
 #### 20240327
 
 [自由职业远程工作的单子哪里来？](https://mp.weixin.qq.com/s/8_4uiYGba68BwvI691ucDQ)宁晧（完）

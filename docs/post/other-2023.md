@@ -1,3 +1,11 @@
+#### 20240521
+
+[谦逊低调，持之以恒——Linux基金会Fellow江腾圭也先生的开源故事](https://mp.weixin.qq.com/s/n_kBOwgHcCeNcbChp41SYA)
+
+#### 20240422
+
+[Linus Torvalds ：要有趣，要有爱，还要对别人有用](https://mp.weixin.qq.com/s/gY9v7KTa2_k5LAuvIRI1PA)
+
 #### 20240419
 
 [扎克伯格最新采访：Meta最强开源模型Llama 3凭什么值百亿美金（视频+实录）](https://mp.weixin.qq.com/s/pA-uETmerJaTX4H-OYNJtA)看到5：48
